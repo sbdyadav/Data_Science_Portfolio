@@ -10,3 +10,5 @@ Have built models making prediction and have also tried to apply feature enginee
 ## PR_3 - Big Mart Sales Prediction
 
 ## PR_4 - Web Page Classifier
+
+## PR_5 - Image Classifier_ Maleria _Detection
