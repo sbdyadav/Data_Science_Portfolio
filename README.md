@@ -12,3 +12,5 @@ Have built models making prediction and have also tried to apply feature enginee
 ## PR_4 - Web Page Classifier
 
 ## PR_5 - Image Classifier_ Maleria _Detection
+
+## PR_6 - Loan Prediction using Keras
